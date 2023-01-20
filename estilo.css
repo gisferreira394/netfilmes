@@ -1,0 +1,9 @@
+.corpo{
+    background-image: url(fundo.webp), url(rain.webp);
+}
+
+.titulo{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
