@@ -81,6 +81,46 @@ position: absolute;
     }
 
     .img1{
+        position: absolute;
+        width: 190px;
+        height: 266px;
+        left: 20px;
+        top: 150px;
+        border-radius: 21px;
+    }
 
-        
+    .img2{
+        position: absolute;
+        width: 190px;
+        height: 266px;
+        left: 300px;
+        top: 150px;
+        border-radius: 21px;
+    }
+
+    .img3{
+        position: absolute;
+        width: 190px;
+        height: 266px;
+        left: 585px;
+        top: 150px;
+        border-radius: 21px;
+    }
+
+    .img4{
+        position: absolute;
+        width: 190px;
+        height: 266px;
+        left: 870px;
+        top: 150px;
+        border-radius: 21px;
+    }
+
+    .img5{
+        position: absolute;
+        width: 190px;
+        height: 266px;
+        left: 1152px;
+        top: 150px;
+        border-radius: 21px;   
     }
