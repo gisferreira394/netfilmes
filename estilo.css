@@ -5,5 +5,82 @@
 .titulo{
     text-align: center;
     color:rgb(0, 0, 0);
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
 }
+
+.linha1{
+    position: absolute;
+width: 550px;
+
+height: 1px;
+border: 1px solid #000000;
+transform: rotate(0.09deg);
+position: absolute;
+    left: 10px;
+    top: 50px;}
+
+    .linha2{
+        width: 555px;
+height: 1px;
+border: 1px solid #000000;
+transform: rotate(0.09deg);
+position: absolute;
+    left: 800px;
+    top: 50px;
+    }
+
+    .bloco{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left: 20px;
+        top: 150px;
+        background: #d3af9a;
+        border-radius: 21px;
+    }
+
+    .bloco2{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left: 300px;
+        top: 150px;
+        background: #d3af9a;
+        border-radius: 21px;
+    }
+
+    .bloco3{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left: 585px;
+        top: 150px;
+        background: #d3af9a;
+        border-radius: 21px;
+    }
+
+    .bloco4{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left: 870px;
+        top: 150px;
+        background: #d3af9a;
+        border-radius: 21px;
+    }
+
+    .bloco5{
+        position: absolute;
+        width: 190px;
+        height: 250px;
+        left: 1152px;
+        top: 150px;
+        background: #d3af9a;
+        border-radius: 21px;
+    }
+
+    .img1{
+
+        
+    }
