@@ -7,6 +7,7 @@
     color:rgb(0, 0, 0);
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: 50px;
+text-shadow: #948888  -3px -2px;
 }
 
 .linha1{
@@ -35,9 +36,11 @@ position: absolute;
         width: 190px;
         height: 250px;
         left: 20px;
-        top: 150px;
+        top: 200px;
         background: #d3af9a;
         border-radius: 21px;
+        box-shadow: #000102;
+
     }
 
     .bloco2{
@@ -45,7 +48,7 @@ position: absolute;
         width: 190px;
         height: 250px;
         left: 300px;
-        top: 150px;
+        top: 200px;
         background: #d3af9a;
         border-radius: 21px;
     }
@@ -55,7 +58,7 @@ position: absolute;
         width: 190px;
         height: 250px;
         left: 585px;
-        top: 150px;
+        top: 200px;
         background: #d3af9a;
         border-radius: 21px;
     }
@@ -65,7 +68,7 @@ position: absolute;
         width: 190px;
         height: 250px;
         left: 870px;
-        top: 150px;
+        top: 200px;
         background: #d3af9a;
         border-radius: 21px;
     }
@@ -75,7 +78,7 @@ position: absolute;
         width: 190px;
         height: 250px;
         left: 1152px;
-        top: 150px;
+        top: 200px;
         background: #d3af9a;
         border-radius: 21px;
     }
@@ -85,7 +88,7 @@ position: absolute;
         width: 190px;
         height: 266px;
         left: 20px;
-        top: 150px;
+        top: 200px;
         border-radius: 21px;
     }
 
@@ -94,7 +97,7 @@ position: absolute;
         width: 190px;
         height: 266px;
         left: 300px;
-        top: 150px;
+        top: 200px;
         border-radius: 21px;
     }
 
@@ -103,7 +106,7 @@ position: absolute;
         width: 190px;
         height: 266px;
         left: 585px;
-        top: 150px;
+        top: 200px;
         border-radius: 21px;
     }
 
@@ -112,7 +115,7 @@ position: absolute;
         width: 190px;
         height: 266px;
         left: 870px;
-        top: 150px;
+        top: 200px;
         border-radius: 21px;
     }
 
@@ -121,6 +124,39 @@ position: absolute;
         width: 190px;
         height: 266px;
         left: 1152px;
-        top: 150px;
+        top: 200px;
         border-radius: 21px;   
+    }
+
+    .h3{
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        left: 30px;
+        top: 90px;
+        font-family:'Times New Roman', Times, serif;
+font-size: 30px;
+text-shadow: #858585 -2px -1px;
+    }
+
+    .serie{
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        left: 200px;
+        top: 90px;
+        font-family:'Times New Roman', Times, serif;
+font-size: 30px;
+text-shadow: #858585 -2px -1px;
+    }
+
+    .anime{
+        position: absolute;
+        width: 10px;
+        height: 10px;
+        left: 360px;
+        top: 90px;
+        font-family:'Times New Roman', Times, serif;
+font-size: 30px;
+text-shadow: #858585 -2px -1px;
     }
